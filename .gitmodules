@@ -1,0 +1,12 @@
+[submodule "Backend/indeed"]
+	path = Backend/indeed
+	url = https://github.com/mans4321/indeedJobsFetcher.git
+[submodule "Backend/wokopolis"]
+	path = Backend/wokopolis
+	url = https://github.com/mans4321/WorkopolisJobsFetcher.git
+[submodule "Backend/simplyHired"]
+	path = Backend/simplyHired
+	url = https://github.com/mans4321/SimplyHiredJobsFetcher.git
+[submodule "Frontend/searchEngine"]
+	path = Frontend/searchEngine
+	url = https://github.com/mans4321/JobHunterFrontEnd.git
